@@ -3,6 +3,12 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
+/allure-results/
+/allure-report/
+/execution-summary/
+/performanceReport/
+/generate_allure_report.bat
+
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
