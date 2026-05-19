@@ -21,7 +21,7 @@ public class DetailedSMSTraffic_TC extends TestBase_TC {
         login = new LogIn_Page(driver);
 
         login.EnterUserName("CreditAgricole@cloudcom.io");
-        login.EnterPassword("Admin@123");
+        login.EnterPassword("Admin");
         login.ClickRememberMe();
         login.ClickOnLoginButton();
 
